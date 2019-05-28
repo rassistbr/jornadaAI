@@ -1,4 +1,4 @@
-# jornadaAI
+# Jornada AI
 
 ## Custom Vision Lab:
 custom_vision.zip,
