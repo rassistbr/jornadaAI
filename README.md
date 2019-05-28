@@ -1,4 +1,4 @@
-# Jornada AI
+# Jornada AI (github.com/rassistbr/JornadaAI)
 
 ## Custom Vision Lab:
 custom_vision.zip,
